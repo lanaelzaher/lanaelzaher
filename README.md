@@ -20,17 +20,18 @@
 
 <p align="left">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" /><br/>
   
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" alt="Backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Backend" /><br/>
   
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" /><br/>
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode" alt="Tools" />
 </p>
+
 
 
 ---
