@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 I'm Lana El Zaher
 
-<!--
-**lanaelzaher/lanaelzaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Full-Stack Developer focused on building efficient, scalable, and user-centered web applications.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=lanaelzaher&label=Profile%20Views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 Currently developing full-stack projects using **MERN**, **Next.js**, and **Laravel**.  
+- 🌱 Learning advanced backend architecture and cloud deployment.  
+- 🤝 Open to collaborating on modern web systems and dashboards.  
+- 💬 Ask me about **React**, **Node.js**, **Laravel**, or **RESTful API design**.  
+- 📫 How to reach me: [lana.alzaher2@gmail.com](+961 81195971)
+- ⚡ Fun fact: I love turning ideas into interactive digital experiences.
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Laravel  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Postman, Jira, VS Code  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lanaelzaher&show_icons=true&theme=tokyonight" alt="Lana's GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanaelzaher&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
+
+---
+
+⭐ *“Clean code and thoughtful design create lasting impact.”*
