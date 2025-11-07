@@ -16,11 +16,22 @@
 
 ---
 
-### 🛠️ Tech Stack
-**Frontend:** React.js, Next.js, Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, Laravel  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, Jira, VS Code  
+### 🧰 Languages & Tools
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend" /><br/>
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" alt="Backend" /><br/>
+  
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" /><br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jira,linux" alt="Tools" />
+</p>
+
 
 ---
 
