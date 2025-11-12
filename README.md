@@ -18,23 +18,19 @@
 
 ### 🧰 Languages & Tools
 
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" /><br/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Backend" /><br/>
-  
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" /><br/>
-  
-  <!-- Tools -->
+<p align="center">
+  <!-- 🧩 Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
+
+  <!-- ⚙️ Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" alt="Backend" />
+
+  <!-- 🗄️ Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database" />
+
+  <!-- 🧰 Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,postman,jira,vscode" alt="Tools" />
 </p>
-
-
-
----
 
 ### 📊 GitHub Stats
 
